@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day3_prg2/modules.order := {   echo /home/pi/device-drivers/native/assignment/day3_prg2/export.ko;   echo /home/pi/device-drivers/native/assignment/day3_prg2/average.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/assignment/day3_prg2/modules.order
