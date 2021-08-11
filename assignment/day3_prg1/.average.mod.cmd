@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day3_prg1/average.mod := { echo  /home/pi/device-drivers/native/assignment/day3_prg1/average.o;  echo; } > /home/pi/device-drivers/native/assignment/day3_prg1/average.mod

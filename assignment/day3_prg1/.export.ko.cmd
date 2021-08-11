@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day3_prg1/export.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/assignment/day3_prg1/export.ko /home/pi/device-drivers/native/assignment/day3_prg1/export.o /home/pi/device-drivers/native/assignment/day3_prg1/export.mod.o;  true

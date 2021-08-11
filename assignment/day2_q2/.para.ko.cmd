@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day2_q2/para.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/assignment/day2_q2/para.ko /home/pi/device-drivers/native/assignment/day2_q2/para.o /home/pi/device-drivers/native/assignment/day2_q2/para.mod.o;  true

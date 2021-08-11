@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day2_q2/para.mod := { echo  /home/pi/device-drivers/native/assignment/day2_q2/para.o;  echo; } > /home/pi/device-drivers/native/assignment/day2_q2/para.mod
