@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day4_prg1/chardriver.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/assignment/day4_prg1/chardriver.ko /home/pi/device-drivers/native/assignment/day4_prg1/chardriver.o /home/pi/device-drivers/native/assignment/day4_prg1/chardriver.mod.o;  true

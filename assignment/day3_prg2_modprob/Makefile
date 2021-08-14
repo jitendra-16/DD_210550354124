@@ -1,5 +1,5 @@
 obj-m:= export.o average.o
-KDIR=/lib/modules/$(shell uname -r)/build/
+KDIR= /lib/modules/$(shell uname -r)/build/
 PWD=$(shell pwd)
 
 default:
