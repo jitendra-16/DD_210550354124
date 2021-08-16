@@ -1,1 +1,0 @@
-cmd_/home/pi/device-drivers/native/assignment/day4_prg2/modules.order := {   echo /home/pi/device-drivers/native/assignment/day4_prg2/chardriver.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/assignment/day4_prg2/modules.order
