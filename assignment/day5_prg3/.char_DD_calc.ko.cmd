@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.ko /home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.o /home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.mod.o;  true

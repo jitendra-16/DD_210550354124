@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day5_prg2/modules.order := {   echo /home/pi/device-drivers/native/assignment/day5_prg2/ioctl_calcy.ko; :; } | awk '!x[$$0]++' - > /home/pi/device-drivers/native/assignment/day5_prg2/modules.order

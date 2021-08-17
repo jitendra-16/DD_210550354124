@@ -1,0 +1,1 @@
+cmd_/home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.mod := { echo  /home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.o;  echo; } > /home/pi/device-drivers/native/assignment/day5_prg3/char_DD_calc.mod
